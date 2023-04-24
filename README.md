@@ -4,7 +4,7 @@ What cleaning data is and how it relates to data quality. This guide will show y
 ## Data Cleaning for Improved Data Quality
 Data cleaning is the process of identifying and correcting or removing errors, inconsistencies, and discrepancies in data to improve its quality and usefulness for analysis. It is an essential step in the data preparation process and is critical to ensuring that the insights and conclusions drawn from the data are accurate and reliable.
 
-## Data Quality and Data Cleaning
+## <font color="green"> Data Quality  </font> and Data Cleaning
 Data quality is a measure of the degree to which data is accurate, complete, consistent, and relevant to the intended purpose. Poor data quality can lead to incorrect conclusions, wasted resources, and missed opportunities. Therefore, data cleaning plays a crucial role in improving data quality.
 
 ## Dealing with Missing Data
