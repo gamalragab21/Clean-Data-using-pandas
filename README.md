@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/67482991/138484427-d1e11665-b108-4fc9-8299-79cfd0f6cc58.png](https://www.learnpythonwithrune.org/wp-content/uploads/2022/04/EXPERT-DATA-SCIENCE-WORKFLOW-4.png" width="200">&nbsp;
+<img src="https://www.learnpythonwithrune.org/wp-content/uploads/2022/04/EXPERT-DATA-SCIENCE-WORKFLOW-4.png" width="200">&nbsp;
 
 # Clean-Data-using-pandas
 What cleaning data is and how it relates to data quality. This guide will show you how to deal with missing data by replacing and interpolate data. How to deal with data outliers and removing duplicates.
